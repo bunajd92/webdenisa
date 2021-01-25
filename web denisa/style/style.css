@@ -1,0 +1,23 @@
+button { padding: 9px; }
+#foto{
+ float: left;
+}
+ .lali{
+   background-color: coral;
+   padding: 30px;
+ }
+
+ body { 
+   background-image: url("../image/RainbowDesktopBackground.png");
+ }
+
+ a:hover{ color: chocolate;}
+
+ li:hover { color: lightgray;}
+
+ ul.prova li{ display: inline; background-color: violet; background-size: 11px;}
+ 
+ ul.prova li a{ text-decoration-color: khaki;}
+
+ 
+  
